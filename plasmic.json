@@ -527,6 +527,20 @@
           "scheme": "blackbox",
           "componentType": "page",
           "path": "/reset-password"
+        },
+        {
+          "id": "XYicFfLFhSQy",
+          "name": "DevelopmentDetails",
+          "type": "managed",
+          "projectId": "onkH1pA6HdPM1JMb3Mte45",
+          "renderModuleFilePath": "plasmic/website_starter/PlasmicDevelopmentDetails.tsx",
+          "importSpec": {
+            "modulePath": "../pages/development-details.tsx"
+          },
+          "cssFilePath": "plasmic/website_starter/PlasmicDevelopmentDetails.module.css",
+          "scheme": "blackbox",
+          "componentType": "page",
+          "path": "/development-details"
         }
       ],
       "icons": [
@@ -629,6 +643,21 @@
           "id": "RKR78U3oWnSC",
           "name": "Icon13Icon",
           "moduleFilePath": "plasmic/website_starter/icons/PlasmicIcon__Icon13.tsx"
+        },
+        {
+          "id": "fU6GnhOqexbr",
+          "name": "VideoIconIcon",
+          "moduleFilePath": "plasmic/website_starter/icons/PlasmicIcon__VideoIcon.tsx"
+        },
+        {
+          "id": "SXieq0M2bzak",
+          "name": "Arrow2Icon",
+          "moduleFilePath": "plasmic/website_starter/icons/PlasmicIcon__Arrow2.tsx"
+        },
+        {
+          "id": "qv54e3PPyRr3",
+          "name": "Icon14Icon",
+          "moduleFilePath": "plasmic/website_starter/icons/PlasmicIcon__Icon14.tsx"
         }
       ],
       "images": [
@@ -651,6 +680,16 @@
           "id": "0f5CP91Fbl_W",
           "name": "Image",
           "filePath": "../public/plasmic/website_starter/images/image.jpg"
+        },
+        {
+          "id": "RY1I3upsceLH",
+          "name": "ImageWithFallback 2",
+          "filePath": "../public/plasmic/website_starter/images/imageWithFallback2.jpg"
+        },
+        {
+          "id": "A-vyc38tEfzV",
+          "name": "download icon",
+          "filePath": "../public/plasmic/website_starter/images/downloadIcon.svg"
         }
       ],
       "indirect": false,
