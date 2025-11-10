@@ -378,10 +378,6 @@
   overflow: hidden;
   left: 30px;
   top: 0px;
-  transform-style: preserve-3d;
-}
-.svg___7Rsa3 * {
-  transform-style: preserve-3d;
 }
 .description {
   height: auto;
@@ -542,10 +538,6 @@
   top: 29px;
   left: 11px;
   transform: translate(-0.5px, -0.5px);
-  transform-style: preserve-3d;
-}
-.text__wqYa0 * {
-  transform-style: preserve-3d;
 }
 .text__fWupG {
   display: block;
@@ -852,10 +844,6 @@
   top: -1px;
   left: 0px;
   transform: translate(0px, -0.199951171875px);
-  transform-style: preserve-3d;
-}
-.text__mx98R * {
-  transform-style: preserve-3d;
 }
 .listItem6 {
   height: 20px;
@@ -876,10 +864,6 @@
   top: -1px;
   left: 0px;
   transform: translate(0px, -0.199951171875px);
-  transform-style: preserve-3d;
-}
-.text__v55Ps * {
-  transform-style: preserve-3d;
 }
 .container5 {
   height: 24px;
@@ -911,10 +895,6 @@
   top: -2px;
   left: 0px;
   transform: translate(0px, -0.199951171875px);
-  transform-style: preserve-3d;
-}
-.text__uPfgL * {
-  transform-style: preserve-3d;
 }
 .link6 {
   width: 71px;
@@ -935,10 +915,6 @@
   top: -2px;
   left: 0px;
   transform: translate(0px, -0.199951171875px);
-  transform-style: preserve-3d;
-}
-.text__h73A * {
-  transform-style: preserve-3d;
 }
 .link7 {
   width: 48px;
@@ -959,10 +935,6 @@
   top: -2px;
   left: 0px;
   transform: translate(0px, -0.199951171875px);
-  transform-style: preserve-3d;
-}
-.text__m22Ez * {
-  transform-style: preserve-3d;
 }
 .container6 {
   height: 53px;
@@ -1552,10 +1524,6 @@
   overflow: hidden;
   left: 30px;
   top: 0px;
-  transform-style: preserve-3d;
-}
-.svg__fQ6Hr * {
-  transform-style: preserve-3d;
 }
 .floorplans2 {
   width: 1200px;
@@ -1603,10 +1571,6 @@
   top: 0px;
   left: 135px;
   overflow: hidden;
-  transform-style: preserve-3d;
-}
-.svg___9A7Di * {
-  transform-style: preserve-3d;
 }
 .heading3 {
   width: 319px;
@@ -1629,10 +1593,6 @@
   top: -2px;
   left: 98px;
   transform: translate(0.1624755859375px, -0.20001220703125px);
-  transform-style: preserve-3d;
-}
-.text__jrm4 * {
-  transform-style: preserve-3d;
 }
 .paragraph4 {
   width: 319px;
@@ -1655,8 +1615,4 @@
   top: -1px;
   left: -10px;
   transform: translate(0px, -0.20001220703125px);
-  transform-style: preserve-3d;
-}
-.text__hTmgy * {
-  transform-style: preserve-3d;
 }
